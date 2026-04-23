@@ -20,12 +20,16 @@
   <a href="https://theindextimes.com">
     <img src="https://img.shields.io/badge/theindextimes.com-News%20%26%20indexes-F59E0B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="theindextimes.com" />
   </a>
+  <a href="https://www.davebrougham.com">
+    <img src="https://img.shields.io/badge/davebrougham.com-Personal%20site-EC4899?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="davebrougham.com" />
+  </a>
 </p>
 
 - **[flashvocab.com](https://flashvocab.com)** — Fast, flashcard-driven vocabulary practice.
 - **[flashfi.co](https://flashfi.co)** — Bite-sized personal finance tools and explainers.
 - **[theindextimes.com](https://theindextimes.com)** — Curated indexes and reference posts for the open web.
-- **[davebrougham.com](https://www.davebrougham.com)** - Personal Website
+- **[davebrougham.com](https://www.davebrougham.com)** — Personal site.
+
 ---
 
 ### 🛠️ Stack I reach for
@@ -44,15 +48,6 @@
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub at a glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davebrougham&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davebrougham&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
