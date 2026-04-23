@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/theindextimes.com-News%20%26%20indexes-F59E0B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="theindextimes.com" />
   </a>
   <a href="https://www.davebrougham.com">
-    <img src="https://img.shields.io/badge/davebrougham.com-Personal%20site-EC4899?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="davebrougham.com" />
+    <img src="https://img.shields.io/badge/davebrougham.com-Personal%20site-DC2626?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="davebrougham.com" />
   </a>
 </p>
 
