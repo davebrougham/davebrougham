@@ -22,24 +22,28 @@
   </a>
 </p>
 
-- **[flashvocab.com](https://flashvocab.com)** — Learn words that speak to you. Discover the 500 most meaningful words in any language.
-- **[flashfi.co](https://flashfi.co)** — Tired of juggling spreadsheets and apps that assume you live in one country? FlashFi tracks your investments, cash, and net worth across every currency — from anywhere.
-- **[theindextimes.com](https://theindextimes.com)** — YOUR DAILY GUIDE TO THE COMPANIES THAT MOVE THE MARKET
-
+- **[flashvocab.com](https://flashvocab.com)** — Fast, flashcard-driven vocabulary practice.
+- **[flashfi.co](https://flashfi.co)** — Bite-sized personal finance tools and explainers.
+- **[theindextimes.com](https://theindextimes.com)** — Curated indexes and reference posts for the open web.
+- **[davebrougham.com](https://www.davebrougham.com)** - Personal Website
 ---
 
 ### 🛠️ Stack I reach for
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -56,8 +60,11 @@
 ### 📬 Elsewhere
 
 <p>
-  <a href="mailto:d.brougham1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/daveborugham">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/davebroio">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="https://github.com/davebrougham">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
